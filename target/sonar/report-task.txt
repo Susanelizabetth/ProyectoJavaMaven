@@ -1,0 +1,7 @@
+organization=susanelizabetth
+projectKey=Susanelizabetth_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Susanelizabetth_ProyectoJavaMaven
+ceTaskId=AXqjgdyz97rUou7ev8-i
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqjgdyz97rUou7ev8-i
