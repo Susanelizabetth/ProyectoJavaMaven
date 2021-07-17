@@ -17,8 +17,6 @@
     <version>1.0</version> 
     <packaging>jar</packaging> 
     <properties> 
-        <!--<maven.compiler.source>16</maven.compiler.source>  -->
-        <!--<maven.compiler.target>16</maven.compiler.target>  -->
         <sonar.projectKey>Susanelizabetth_ProyectoJavaMaven</sonar.projectKey>
         <sonar.organization>susanelizabetth</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
